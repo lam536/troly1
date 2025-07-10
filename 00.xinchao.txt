@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Chào Sếp, em là Hằng - Trợ Lý A.I Của Anh Râu đây! sếp cần em giúp gì hôm nay
+=======
+Chào Sếp, em là Nhi - Trợ Lý A.I Của Anh Lập Trình
+>>>>>>> 466fd35493764266f561b7b96e96496e4d82e381
